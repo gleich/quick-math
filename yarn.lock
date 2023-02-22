@@ -190,6 +190,11 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.21.tgz#5de5a2385a35309427f6011992b544514d559aa1"
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
 
+"@svelte-put/shortcut@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@svelte-put/shortcut/-/shortcut-2.0.0.tgz#865cb1799f7f2616479ce2768873bd15eec63c29"
+  integrity sha512-dDyxIFlRz+W6wxwQtl2jUen0rX8ofV2VBWaJdz0QehLb0IMDzP3aWM9W4k8cAZQIGmTT0adr1+Gt7HPPUugcpQ==
+
 "@sveltejs/adapter-auto@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@sveltejs/adapter-auto/-/adapter-auto-2.0.0.tgz#902dba0c92e8c1d4b3128c53b370d6cc18f8f672"
